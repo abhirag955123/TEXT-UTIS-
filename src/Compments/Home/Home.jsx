@@ -21,7 +21,7 @@ function Home({ text, dispatch }) {
   return (
     <div className="  my-12 mx-24 px-3">
       <div>
-        <h1 className="text-[40px] text-center font-medium mb-2">TextUtis - Word Counter, Charecter Counter, Remove Extra Space</h1>
+        <h1 className="text-[40px] text-center font-medium mb-2">TextUtis - Word Counter, Character Counter, Remove Extra Space</h1>
         <div>
           <p className="text-[22px] font-semibold mb-2 mt-2">Enter Your Text Here:</p>
           <textarea
